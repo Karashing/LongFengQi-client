@@ -72,20 +72,42 @@
     <Compile Include="Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Plugins\Grpc.Core\lib\net45\Grpc.Core.dll" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\Plugins\System.Runtime.CompilerServices.Unsafe\lib\net45\System.Runtime.CompilerServices.Unsafe.dll" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\Plugins\Demigiant\DOTween\DOTween.XML" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Plugins\System.Memory\lib\net45\System.Memory.dll" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\Plugins\Google.Protobuf\lib\net45\Google.Protobuf.dll" />
+    <None Include="Assets\Plugins\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\Plugins\Demigiant\DOTween\DOTween.dll" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\Plugins\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\Plugins\Grpc.Core.Api\lib\net45\Grpc.Core.Api.dll" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\Plugins\Grpc.Core.Api\lib\net45\Grpc.Core.Api.xml" />
+    <None Include="Assets\Plugins\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\Plugins\LitJson.dll" />
     <None Include="Assets\Plugins\System.Buffers\lib\net45\System.Buffers.dll" />
     <None Include="Assets\Plugins\Grpc.Core\runtimes\win\x64\grpc_csharp_ext.dll" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\Plugins\Grpc.Core\lib\net45\Grpc.Core.xml" />
     <None Include="Assets\Plugins\Demigiant\DOTween\readme.txt" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\Plugins\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\Plugins\TextMesh Pro\7000汉字+符号+英文字符集.txt" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\Plugins\Grpc.Core\runtimes\win\x86\grpc_csharp_ext.dll" />
+    <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
