@@ -1,0 +1,76 @@
+
+liuchan_phyattack_02.png
+size: 340,810
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+at_shanguang
+  rotate: false
+  xy: 204, 86
+  size: 90, 88
+  orig: 90, 88
+  offset: 0, 0
+  index: -1
+at_shouji_0037
+  rotate: true
+  xy: 204, 677
+  size: 131, 134
+  orig: 131, 134
+  offset: 0, 0
+  index: -1
+at_shouji_0038
+  rotate: true
+  xy: 204, 544
+  size: 131, 134
+  orig: 131, 134
+  offset: 0, 0
+  index: -1
+at_shouji_0039
+  rotate: true
+  xy: 204, 411
+  size: 131, 134
+  orig: 131, 134
+  offset: 0, 0
+  index: -1
+at_shouji_0041
+  rotate: true
+  xy: 204, 278
+  size: 131, 134
+  orig: 131, 134
+  offset: 0, 0
+  index: -1
+at_shoujiyan_00003
+  rotate: false
+  xy: 2, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+at_shoujiyan_00005
+  rotate: false
+  xy: 2, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+at_shoujiyan_00008
+  rotate: false
+  xy: 2, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+at_shoujiyan_00010
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+at_yan
+  rotate: false
+  xy: 204, 176
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1

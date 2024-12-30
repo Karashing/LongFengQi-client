@@ -1,0 +1,18 @@
+# User-specific files
+.idea/
+.vscode/
+
+# Windows-specific files
+Thumbs.db
+Desktop.ini
+
+# Unity-specific files
+[Ll]ibrary/
+[Ll]ogs/
+Temp/
+Temps/
+Build/
+Builds/
+
+# Uncomment this line if you want to include your project settings
+#ProjectSettings/

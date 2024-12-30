@@ -1,0 +1,62 @@
+
+gongqibing_skill1_2.png
+size: 234,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0014_arrow
+  rotate: false
+  xy: 168, 53
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+lanshe/guangying
+  rotate: false
+  xy: 2, 52
+  size: 164, 87
+  orig: 164, 87
+  offset: 0, 0
+  index: -1
+lanshe/liuguang0001
+  rotate: false
+  xy: 174, 5
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+lanshe/liuguang0002
+  rotate: true
+  xy: 130, 5
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+lanshe/liuguang0003
+  rotate: false
+  xy: 168, 83
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+lanshe/liuguang0004
+  rotate: false
+  xy: 2, 4
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+lanshe/liuguang0005
+  rotate: true
+  xy: 71, 2
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+lanshe/tuowei
+  rotate: true
+  xy: 204, 6
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1

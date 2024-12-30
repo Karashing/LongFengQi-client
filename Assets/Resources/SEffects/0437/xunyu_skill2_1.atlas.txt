@@ -1,0 +1,34 @@
+
+xunyu_skill2_1.png
+size: 233,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangdian
+  rotate: false
+  xy: 174, 30
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 2, 2
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+guangxian
+  rotate: false
+  xy: 174, 82
+  size: 20, 90
+  orig: 20, 90
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 196, 137
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

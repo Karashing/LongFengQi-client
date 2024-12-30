@@ -1,0 +1,34 @@
+
+lianyaoshi_phyattack.png
+size: 398,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+phy_shifaquang_1
+  rotate: false
+  xy: 306, 94
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+phy_shifaquang_2
+  rotate: false
+  xy: 184, 64
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+phy_shifaquang_3
+  rotate: false
+  xy: 306, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+phy_shifashan
+  rotate: false
+  xy: 2, 4
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

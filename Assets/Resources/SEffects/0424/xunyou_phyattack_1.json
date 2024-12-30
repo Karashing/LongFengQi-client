@@ -1,0 +1,261 @@
+{
+	"skeleton": {
+		"hash": "8x+S2D7oYdG4nP4Fpn68+19QWPU",
+		"spine": "3.8",
+		"x": -153.03,
+		"y": -21.51,
+		"width": 215.32,
+		"height": 215.32,
+		"images": "./0/",
+		"audio": ""
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "bone",
+			"parent": "root",
+			"x": -45.37,
+			"y": 86.15,
+			"scaleX": 2,
+			"scaleY": 2
+		}
+	],
+	"slots": [
+		{
+			"name": "daoguang",
+			"bone": "bone",
+			"attachment": "daoguang0001"
+		},
+		{
+			"name": "daoguang2",
+			"bone": "bone",
+			"attachment": "daoguang0001",
+			"blend": "additive"
+		}
+	],
+	"skins": [
+		{
+			"name": "default",
+			"attachments": {
+				"daoguang2": {
+					"daoguang0001": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					},
+					"daoguang0003": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					},
+					"daoguang0004": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					},
+					"daoguang0005": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					},
+					"daoguang0006": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					},
+					"daoguang0007": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					},
+					"daoguang0009": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					},
+					"daoguang0013": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					}
+				},
+				"daoguang": {
+					"daoguang0001": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					},
+					"daoguang0003": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					},
+					"daoguang0004": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					},
+					"daoguang0005": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					},
+					"daoguang0006": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					},
+					"daoguang0007": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					},
+					"daoguang0009": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					},
+					"daoguang0013": {
+						"scaleX": 0.769,
+						"scaleY": 0.769,
+						"width": 140,
+						"height": 140
+					}
+				}
+			}
+		}
+	],
+	"events": {
+		"hit": {}
+	},
+	"animations": {
+		"animation": {
+			"slots": {
+				"daoguang2": {
+					"attachment": [
+						{
+							"name": null
+						},
+						{
+							"time": 0.0333,
+							"name": "daoguang0001"
+						},
+						{
+							"time": 0.0667,
+							"name": "daoguang0003"
+						},
+						{
+							"time": 0.1,
+							"name": "daoguang0004"
+						},
+						{
+							"time": 0.1333,
+							"name": "daoguang0005"
+						},
+						{
+							"time": 0.1667,
+							"name": "daoguang0006"
+						},
+						{
+							"time": 0.2333,
+							"name": "daoguang0007"
+						},
+						{
+							"time": 0.3,
+							"name": "daoguang0009"
+						},
+						{
+							"time": 0.3667,
+							"name": "daoguang0013"
+						},
+						{
+							"time": 0.4333,
+							"name": null
+						}
+					]
+				},
+				"daoguang": {
+					"attachment": [
+						{
+							"name": null
+						},
+						{
+							"time": 0.0333,
+							"name": "daoguang0001"
+						},
+						{
+							"time": 0.0667,
+							"name": "daoguang0003"
+						},
+						{
+							"time": 0.1,
+							"name": "daoguang0004"
+						},
+						{
+							"time": 0.1333,
+							"name": "daoguang0005"
+						},
+						{
+							"time": 0.1667,
+							"name": "daoguang0006"
+						},
+						{
+							"time": 0.2333,
+							"name": "daoguang0007"
+						},
+						{
+							"time": 0.3,
+							"name": "daoguang0009"
+						},
+						{
+							"time": 0.3667,
+							"name": "daoguang0013"
+						},
+						{
+							"time": 0.4333,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"bone": {
+					"rotate": [
+						{
+							"angle": 50
+						}
+					],
+					"translate": [
+						{
+							"x": 45.37,
+							"y": -86.15
+						}
+					]
+				}
+			},
+			"events": [
+				{
+					"time": 0.0667,
+					"name": "hit"
+				}
+			]
+		}
+	}
+}

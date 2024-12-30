@@ -1,0 +1,27 @@
+
+huangyueying_2_skill2_1.png
+size: 262,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/dd_4
+  rotate: false
+  xy: 2, 52
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ef/quan
+  rotate: false
+  xy: 54, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xingxing5
+  rotate: true
+  xy: 156, 2
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1

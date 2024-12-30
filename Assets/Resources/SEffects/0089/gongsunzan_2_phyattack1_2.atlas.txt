@@ -1,0 +1,62 @@
+
+gongsunzan_2_phyattack1_2.png
+size: 847,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/_0065_weapon2
+  rotate: false
+  xy: 2, 15
+  size: 129, 37
+  orig: 129, 37
+  offset: 0, 0
+  index: -1
+ef/tx_baodian02
+  rotate: true
+  xy: 133, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+ef/tx_baodian03
+  rotate: true
+  xy: 235, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+ef/tx_baodian04
+  rotate: true
+  xy: 337, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+ef/tx_baodian05
+  rotate: true
+  xy: 439, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+ef/tx_baodian06
+  rotate: true
+  xy: 541, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+ef/tx_baodian07
+  rotate: true
+  xy: 643, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+ef/tx_baodian08
+  rotate: true
+  xy: 745, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1

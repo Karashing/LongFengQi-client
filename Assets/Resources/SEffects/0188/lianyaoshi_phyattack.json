@@ -1,0 +1,294 @@
+{
+	"skeleton": {
+		"hash": "RFWTIIgR8DIw67YlMcpaig0YVro",
+		"spine": "3.8",
+		"images": "./0/",
+		"audio": ""
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "phy_shifa_quan01",
+			"parent": "root",
+			"length": 13.8,
+			"rotation": -96.78,
+			"x": 21.36,
+			"y": 120.62
+		},
+		{
+			"name": "phy_shifa_quan02",
+			"parent": "root",
+			"length": 16.04,
+			"rotation": -2.25,
+			"x": 26.1,
+			"y": 119.56
+		},
+		{
+			"name": "phy_shifa_quan03",
+			"parent": "root",
+			"length": 12.71,
+			"rotation": 80.53,
+			"x": 18.19,
+			"y": 119.56
+		},
+		{
+			"name": "phy_shifa_shanguang",
+			"parent": "root",
+			"length": 23.55,
+			"rotation": -26.38,
+			"x": 18.29,
+			"y": 120.07
+		}
+	],
+	"slots": [
+		{
+			"name": "phy_shifaquang_3",
+			"bone": "phy_shifa_quan03"
+		},
+		{
+			"name": "phy_shifaquang_1",
+			"bone": "phy_shifa_quan01"
+		},
+		{
+			"name": "phy_shifaquang_2",
+			"bone": "phy_shifa_quan02"
+		},
+		{
+			"name": "phy_shifashan",
+			"bone": "phy_shifa_shanguang",
+			"blend": "additive"
+		}
+	],
+	"skins": [
+		{
+			"name": "default",
+			"attachments": {
+				"phy_shifaquang_1": {
+					"phy_shifaquang_1": {
+						"x": -0.67,
+						"y": 1.26,
+						"rotation": 96.78,
+						"width": 90,
+						"height": 90
+					}
+				},
+				"phy_shifaquang_2": {
+					"phy_shifaquang_2": {
+						"x": -0.56,
+						"y": 0.18,
+						"rotation": 2.25,
+						"width": 120,
+						"height": 120
+					}
+				},
+				"phy_shifaquang_3": {
+					"phy_shifaquang_3": {
+						"x": -0.22,
+						"y": -2.86,
+						"rotation": -80.53,
+						"width": 90,
+						"height": 90
+					}
+				},
+				"phy_shifashan": {
+					"phy_shifashan": {
+						"x": -0.38,
+						"y": 0.19,
+						"rotation": 26.38,
+						"width": 180,
+						"height": 180
+					}
+				}
+			}
+		}
+	],
+	"animations": {
+		"animation": {
+			"slots": {
+				"phy_shifashan": {
+					"color": [
+						{
+							"color": "ffffffff"
+						}
+					],
+					"attachment": [
+						{
+							"name": "phy_shifashan"
+						},
+						{
+							"time": 0.0667,
+							"name": null
+						}
+					]
+				},
+				"phy_shifaquang_3": {
+					"color": [
+						{
+							"color": "ffffffff"
+						}
+					],
+					"attachment": [
+						{
+							"name": null
+						},
+						{
+							"time": 0.1,
+							"name": "phy_shifaquang_3"
+						},
+						{
+							"time": 0.2,
+							"name": null
+						}
+					]
+				},
+				"phy_shifaquang_2": {
+					"color": [
+						{
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.1,
+							"color": "ffffff00"
+						},
+						{
+							"time": 0.2,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3333,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"name": null
+						},
+						{
+							"time": 0.1,
+							"name": "phy_shifaquang_2"
+						}
+					]
+				},
+				"phy_shifaquang_1": {
+					"color": [
+						{
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.1,
+							"color": "fffffffe"
+						},
+						{
+							"time": 0.1667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"name": "phy_shifaquang_1"
+						}
+					]
+				}
+			},
+			"bones": {
+				"phy_shifa_quan01": {
+					"rotate": [
+						{}
+					],
+					"translate": [
+						{}
+					],
+					"scale": [
+						{
+							"x": 0.124,
+							"y": 0.124
+						},
+						{
+							"time": 0.1
+						},
+						{
+							"time": 0.1667,
+							"x": 1.656,
+							"y": 1.656
+						}
+					]
+				},
+				"phy_shifa_quan02": {
+					"rotate": [
+						{}
+					],
+					"translate": [
+						{}
+					],
+					"scale": [
+						{
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.2
+						},
+						{
+							"time": 0.3333,
+							"x": 1.526,
+							"y": 1.526
+						}
+					]
+				},
+				"phy_shifa_quan03": {
+					"rotate": [
+						{}
+					],
+					"translate": [
+						{}
+					],
+					"scale": [
+						{},
+						{
+							"time": 0.1,
+							"x": 0.196,
+							"y": 0.196
+						},
+						{
+							"time": 0.1667,
+							"x": 1.415,
+							"y": 1.415
+						}
+					]
+				},
+				"phy_shifa_shanguang": {
+					"rotate": [
+						{}
+					],
+					"translate": [
+						{}
+					],
+					"scale": [
+						{},
+						{
+							"time": 0.1667,
+							"x": 1.656,
+							"y": 1.656
+						}
+					]
+				},
+				"root": {
+					"translate": [
+						{
+							"x": -18.77,
+							"y": -119.54
+						}
+					]
+				}
+			},
+			"drawOrder": [
+				{}
+			]
+		}
+	}
+}

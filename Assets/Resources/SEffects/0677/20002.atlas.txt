@@ -1,0 +1,76 @@
+
+20002.png
+size: 612,49
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/xuanyun/xuanyun_00000
+  rotate: false
+  xy: 2, 2
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+effect/xuanyun/xuanyun_00001
+  rotate: false
+  xy: 63, 2
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+effect/xuanyun/xuanyun_00002
+  rotate: false
+  xy: 124, 2
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+effect/xuanyun/xuanyun_00003
+  rotate: false
+  xy: 185, 2
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+effect/xuanyun/xuanyun_00004
+  rotate: false
+  xy: 246, 2
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+effect/xuanyun/xuanyun_00005
+  rotate: false
+  xy: 307, 2
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+effect/xuanyun/xuanyun_00006
+  rotate: false
+  xy: 368, 2
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+effect/xuanyun/xuanyun_00007
+  rotate: false
+  xy: 429, 2
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+effect/xuanyun/xuanyun_00008
+  rotate: false
+  xy: 490, 2
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+effect/xuanyun/xuanyun_00009
+  rotate: false
+  xy: 551, 2
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+yuji_phyattack_1.png
+size: 220,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/dd
+  rotate: false
+  xy: 166, 18
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ef/quan1
+  rotate: false
+  xy: 2, 70
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+ef/tx_sd102
+  rotate: false
+  xy: 84, 70
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+ef/tx_sd104
+  rotate: false
+  xy: 152, 70
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+ef/tx_sd106
+  rotate: true
+  xy: 2, 2
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+ef/tx_sd108
+  rotate: true
+  xy: 84, 2
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1

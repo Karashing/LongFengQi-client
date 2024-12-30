@@ -1,0 +1,139 @@
+
+ui_denglu_jingdutiao1.png
+size: 924,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd
+  rotate: false
+  xy: 906, 115
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+flash_blueStar_alpha
+  rotate: false
+  xy: 834, 60
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+stt_01
+  rotate: false
+  xy: 2, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_02
+  rotate: false
+  xy: 54, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_03
+  rotate: false
+  xy: 106, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_04
+  rotate: false
+  xy: 158, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_05
+  rotate: false
+  xy: 210, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_06
+  rotate: false
+  xy: 262, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_07
+  rotate: false
+  xy: 314, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_08
+  rotate: false
+  xy: 366, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_09
+  rotate: false
+  xy: 418, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_10
+  rotate: false
+  xy: 470, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_11
+  rotate: false
+  xy: 522, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_12
+  rotate: false
+  xy: 574, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_13
+  rotate: false
+  xy: 626, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_14
+  rotate: false
+  xy: 678, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_15
+  rotate: false
+  xy: 730, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+stt_16
+  rotate: false
+  xy: 782, 2
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+tt
+  rotate: false
+  xy: 834, 11
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1

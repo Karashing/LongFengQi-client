@@ -1,0 +1,210 @@
+{
+	"skeleton": {
+		"hash": "HbWErtVgppdpcX2HsUNSKf4LLWQ",
+		"spine": "3.8",
+		"x": -84,
+		"y": -30.3,
+		"width": 168,
+		"height": 169.59,
+		"images": "./0/",
+		"audio": ""
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "dun",
+			"parent": "root"
+		},
+		{
+			"name": "bone3",
+			"parent": "dun"
+		},
+		{
+			"name": "dun00",
+			"parent": "dun",
+			"y": 50
+		},
+		{
+			"name": "bone",
+			"parent": "dun00",
+			"y": 38.89,
+			"scaleX": 1.2,
+			"scaleY": 1.2
+		},
+		{
+			"name": "bone30",
+			"parent": "dun00",
+			"y": -29.9,
+			"scaleX": 1.2,
+			"scaleY": -1.2
+		},
+		{
+			"name": "bone5",
+			"parent": "bone3",
+			"y": 50
+		}
+	],
+	"slots": [
+		{
+			"name": "guangdian",
+			"bone": "bone5",
+			"attachment": "x_guangdian"
+		},
+		{
+			"name": "dun",
+			"bone": "bone",
+			"attachment": "x_dun01"
+		},
+		{
+			"name": "dun02",
+			"bone": "bone30",
+			"attachment": "x_dun01"
+		}
+	],
+	"skins": [
+		{
+			"name": "default",
+			"attachments": {
+				"guangdian": {
+					"x_guangdian": {
+						"width": 120,
+						"height": 120
+					}
+				},
+				"dun": {
+					"x_dun01": {
+						"width": 140,
+						"height": 84
+					}
+				},
+				"dun02": {
+					"x_dun01": {
+						"width": 140,
+						"height": 84
+					}
+				}
+			}
+		}
+	],
+	"animations": {
+		"animation": {
+			"slots": {
+				"dun": {
+					"attachment": [
+						{
+							"name": "x_dun01"
+						}
+					]
+				},
+				"guangdian": {
+					"color": [
+						{
+							"color": "ffffff00"
+						},
+						{
+							"time": 0.1667,
+							"color": "ffffffc7"
+						},
+						{
+							"time": 0.8333,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"name": "x_guangdian"
+						}
+					]
+				},
+				"dun02": {
+					"attachment": [
+						{
+							"name": "x_dun01"
+						}
+					]
+				}
+			},
+			"bones": {
+				"bone": {
+					"translate": [
+						{
+							"y": 2.08
+						}
+					],
+					"scale": [
+						{}
+					]
+				},
+				"bone30": {
+					"translate": [
+						{}
+					],
+					"scale": [
+						{}
+					]
+				},
+				"bone5": {
+					"translate": [
+						{
+							"y": -50
+						}
+					],
+					"scale": [
+						{},
+						{
+							"time": 0.1667,
+							"x": 2.2,
+							"y": 2.2
+						},
+						{
+							"time": 0.8333,
+							"x": 3.3,
+							"y": 3.3
+						}
+					]
+				},
+				"dun00": {
+					"translate": [
+						{
+							"y": -57.06
+						}
+					],
+					"scale": [
+						{
+							"x": 0.7,
+							"y": 0.7
+						},
+						{
+							"time": 0.3333,
+							"x": 0.9,
+							"y": 0.9
+						},
+						{
+							"time": 0.5
+						},
+						{
+							"time": 0.8333,
+							"x": 1.3,
+							"y": 1.3
+						}
+					]
+				},
+				"dun": {
+					"translate": [
+						{
+							"y": 1.5
+						}
+					],
+					"scale": [
+						{
+							"x": 0.85,
+							"y": 0.85
+						}
+					]
+				}
+			}
+		}
+	}
+}

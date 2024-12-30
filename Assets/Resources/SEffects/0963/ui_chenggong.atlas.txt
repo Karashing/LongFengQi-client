@@ -1,0 +1,55 @@
+
+ui_chenggong.png
+size: 406,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangdian01
+  rotate: false
+  xy: 304, 60
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+guangdian03
+  rotate: false
+  xy: 304, 13
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+guangdian04
+  rotate: false
+  xy: 204, 217
+  size: 200, 156
+  orig: 200, 156
+  offset: 0, 0
+  index: -1
+guangdian06
+  rotate: false
+  xy: 2, 173
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guangxian03
+  rotate: false
+  xy: 2, 2
+  size: 300, 169
+  orig: 300, 169
+  offset: 0, 0
+  index: -1
+guangzhu01
+  rotate: true
+  xy: 304, 112
+  size: 103, 80
+  orig: 103, 80
+  offset: 0, 0
+  index: -1
+xingxing02
+  rotate: false
+  xy: 204, 185
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

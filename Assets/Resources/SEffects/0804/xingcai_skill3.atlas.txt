@@ -1,0 +1,20 @@
+
+xingcai_skill3.png
+size: 210,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x_dun01
+  rotate: true
+  xy: 124, 2
+  size: 140, 84
+  orig: 140, 84
+  offset: 0, 0
+  index: -1
+x_guangdian
+  rotate: false
+  xy: 2, 22
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

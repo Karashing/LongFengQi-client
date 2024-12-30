@@ -1,0 +1,34 @@
+
+20029.png
+size: 610,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guanban1
+  rotate: false
+  xy: 480, 28
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guangxian1
+  rotate: false
+  xy: 480, 130
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+wl
+  rotate: false
+  xy: 260, 40
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1

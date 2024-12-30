@@ -1,0 +1,62 @@
+
+zhangliao_sp_effect2_1.png
+size: 1183,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/6_001
+  rotate: true
+  xy: 2, 2
+  size: 110, 155
+  orig: 110, 155
+  offset: 0, 0
+  index: -1
+ef/6_003
+  rotate: true
+  xy: 159, 2
+  size: 110, 155
+  orig: 110, 155
+  offset: 0, 0
+  index: -1
+ef/6_005
+  rotate: true
+  xy: 316, 2
+  size: 110, 155
+  orig: 110, 155
+  offset: 0, 0
+  index: -1
+ef/6_007
+  rotate: true
+  xy: 473, 2
+  size: 110, 155
+  orig: 110, 155
+  offset: 0, 0
+  index: -1
+ef/6_009
+  rotate: true
+  xy: 630, 2
+  size: 110, 155
+  orig: 110, 155
+  offset: 0, 0
+  index: -1
+ef/6_011
+  rotate: true
+  xy: 787, 2
+  size: 110, 155
+  orig: 110, 155
+  offset: 0, 0
+  index: -1
+ef/6_013
+  rotate: true
+  xy: 944, 2
+  size: 110, 155
+  orig: 110, 155
+  offset: 0, 0
+  index: -1
+ef/y2
+  rotate: false
+  xy: 1101, 32
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

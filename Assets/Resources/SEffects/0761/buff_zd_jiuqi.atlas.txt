@@ -1,0 +1,48 @@
+
+buff_zd_jiuqi.png
+size: 218,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_zd_jiuqi/00
+  rotate: false
+  xy: 2, 2
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+buff_zd_jiuqi/01
+  rotate: false
+  xy: 38, 2
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+buff_zd_jiuqi/02
+  rotate: false
+  xy: 74, 2
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+buff_zd_jiuqi/03
+  rotate: false
+  xy: 110, 2
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+buff_zd_jiuqi/04
+  rotate: false
+  xy: 146, 2
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+buff_zd_jiuqi/05
+  rotate: false
+  xy: 182, 2
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1

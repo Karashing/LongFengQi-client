@@ -1,0 +1,132 @@
+
+huangyueying_2_phyattack_3.png
+size: 1446,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/dd_4
+  rotate: false
+  xy: 1394, 154
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ef/quan
+  rotate: false
+  xy: 884, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/tx_hul02
+  rotate: true
+  xy: 2, 4
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+ef/tx_hul03
+  rotate: true
+  xy: 128, 4
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+ef/tx_hul04
+  rotate: true
+  xy: 254, 4
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+ef/tx_hul05
+  rotate: true
+  xy: 380, 4
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+ef/tx_hul06
+  rotate: true
+  xy: 506, 4
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+ef/tx_hul07
+  rotate: true
+  xy: 632, 4
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+ef/tx_hul08
+  rotate: true
+  xy: 758, 4
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+ef/xz_01
+  rotate: false
+  xy: 884, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_02
+  rotate: false
+  xy: 986, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_03
+  rotate: false
+  xy: 986, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_04
+  rotate: false
+  xy: 1088, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_06
+  rotate: false
+  xy: 1088, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_08
+  rotate: false
+  xy: 1190, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_10
+  rotate: false
+  xy: 1190, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_12
+  rotate: false
+  xy: 1292, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_14
+  rotate: false
+  xy: 1292, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

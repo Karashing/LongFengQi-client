@@ -1,0 +1,13 @@
+
+ui_mainsign.png
+size: 104,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yb
+  rotate: false
+  xy: 2, 2
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1

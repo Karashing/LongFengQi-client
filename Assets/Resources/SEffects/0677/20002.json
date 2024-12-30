@@ -1,0 +1,143 @@
+{
+	"skeleton": {
+		"hash": "m/ordijQp63sfZzGCjkobTB6+Tc",
+		"spine": "3.8",
+		"x": -29.5,
+		"y": -22.5,
+		"width": 59,
+		"height": 45,
+		"images": "./0/",
+		"audio": ""
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "xuanyun",
+			"parent": "root"
+		}
+	],
+	"slots": [
+		{
+			"name": "xuanyun",
+			"bone": "xuanyun",
+			"attachment": "effect/xuanyun/xuanyun_00000"
+		}
+	],
+	"skins": [
+		{
+			"name": "default",
+			"attachments": {
+				"xuanyun": {
+					"effect/xuanyun/xuanyun_00000": {
+						"width": 59,
+						"height": 45
+					},
+					"effect/xuanyun/xuanyun_00001": {
+						"width": 59,
+						"height": 45
+					},
+					"effect/xuanyun/xuanyun_00002": {
+						"width": 59,
+						"height": 45
+					},
+					"effect/xuanyun/xuanyun_00003": {
+						"width": 59,
+						"height": 45
+					},
+					"effect/xuanyun/xuanyun_00004": {
+						"width": 59,
+						"height": 45
+					},
+					"effect/xuanyun/xuanyun_00005": {
+						"width": 59,
+						"height": 45
+					},
+					"effect/xuanyun/xuanyun_00006": {
+						"width": 59,
+						"height": 45
+					},
+					"effect/xuanyun/xuanyun_00007": {
+						"width": 59,
+						"height": 45
+					},
+					"effect/xuanyun/xuanyun_00008": {
+						"width": 59,
+						"height": 45
+					},
+					"effect/xuanyun/xuanyun_00009": {
+						"width": 59,
+						"height": 45
+					}
+				}
+			}
+		}
+	],
+	"animations": {
+		"animation": {
+			"slots": {
+				"xuanyun": {
+					"attachment": [
+						{
+							"name": "effect/xuanyun/xuanyun_00000"
+						},
+						{
+							"time": 0.1,
+							"name": "effect/xuanyun/xuanyun_00001"
+						},
+						{
+							"time": 0.2,
+							"name": "effect/xuanyun/xuanyun_00002"
+						},
+						{
+							"time": 0.3,
+							"name": "effect/xuanyun/xuanyun_00003"
+						},
+						{
+							"time": 0.4,
+							"name": "effect/xuanyun/xuanyun_00004"
+						},
+						{
+							"time": 0.5,
+							"name": "effect/xuanyun/xuanyun_00005"
+						},
+						{
+							"time": 0.6,
+							"name": "effect/xuanyun/xuanyun_00006"
+						},
+						{
+							"time": 0.7,
+							"name": "effect/xuanyun/xuanyun_00007"
+						},
+						{
+							"time": 0.8,
+							"name": "effect/xuanyun/xuanyun_00008"
+						},
+						{
+							"time": 0.9,
+							"name": "effect/xuanyun/xuanyun_00009"
+						},
+						{
+							"time": 1,
+							"name": "effect/xuanyun/xuanyun_00000"
+						}
+					]
+				}
+			},
+			"bones": {
+				"xuanyun": {
+					"translate": [
+						{}
+					],
+					"scale": [
+						{
+							"x": 2,
+							"y": 2
+						}
+					]
+				}
+			}
+		}
+	}
+}

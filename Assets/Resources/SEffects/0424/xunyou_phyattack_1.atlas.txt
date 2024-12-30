@@ -1,0 +1,62 @@
+
+xunyou_phyattack_1.png
+size: 1138,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang0001
+  rotate: false
+  xy: 2, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+daoguang0003
+  rotate: false
+  xy: 144, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+daoguang0004
+  rotate: false
+  xy: 286, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+daoguang0005
+  rotate: false
+  xy: 428, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+daoguang0006
+  rotate: false
+  xy: 570, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+daoguang0007
+  rotate: false
+  xy: 712, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+daoguang0009
+  rotate: false
+  xy: 854, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+daoguang0013
+  rotate: false
+  xy: 996, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1

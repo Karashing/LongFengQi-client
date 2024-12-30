@@ -1,0 +1,48 @@
+
+luxun_2_skill4_2.png
+size: 464,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/hqiuq (01)
+  rotate: false
+  xy: 2, 2
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+ef/hqiuq (03)
+  rotate: false
+  xy: 79, 2
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+ef/hqiuq (05)
+  rotate: false
+  xy: 156, 2
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+ef/hqiuq (07)
+  rotate: false
+  xy: 233, 2
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+ef/hqiuq (09)
+  rotate: false
+  xy: 310, 2
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+ef/hqiuq (11)
+  rotate: false
+  xy: 387, 2
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1

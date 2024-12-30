@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9120029239857617613
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9046348774293897201}
+  - component: {fileID: 1872593604441853415}
+  m_Layer: 0
+  m_Name: shop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9046348774293897201
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9120029239857617613}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1872593604441853415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9120029239857617613}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27d519194b0a7a542836eb0acd942ee5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  server_id: 
+  enter_action:
+    m_PersistentCalls:
+      m_Calls: []
+  quit_action:
+    m_PersistentCalls:
+      m_Calls: []
+  start_act:
+    m_PersistentCalls:
+      m_Calls: []
+  end_act:
+    m_PersistentCalls:
+      m_Calls: []
+  energy_change:
+    m_PersistentCalls:
+      m_Calls: []
+  level_change:
+    m_PersistentCalls:
+      m_Calls: []
+  action_card: {fileID: 0}
+  act_round: 0
+  word: "\u5E97"
+  symbol_type: 0
+  work_sprite: {fileID: 21300000, guid: e2fda1ac2bdee2148928edcc9cc665fd, type: 3}
+  describe:
+    name: 
+    role: 
+    skill: []
+  camp: 2
+  max_level: 2
+  _speed: 50
+  max_energy: 0
+  last_act_time: 0
+  round_mil: 0
+  multi_mil: 0
+  _act_time: 0
+  owner_buffs: []
+  functional_skills: []

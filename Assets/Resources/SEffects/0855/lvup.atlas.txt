@@ -1,0 +1,41 @@
+
+lvup.png
+size: 402,970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light-circle
+  rotate: false
+  xy: 2, 2
+  size: 398, 414
+  orig: 398, 414
+  offset: 0, 0
+  index: -1
+light-dot
+  rotate: true
+  xy: 20, 711
+  size: 257, 259
+  orig: 257, 259
+  offset: 0, 0
+  index: -1
+light-light
+  rotate: false
+  xy: 5, 955
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+particle
+  rotate: true
+  xy: 2, 418
+  size: 291, 308
+  orig: 291, 308
+  offset: 0, 0
+  index: -1
+trigger-text
+  rotate: false
+  xy: 2, 967
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,120 @@
+{
+	"skeleton": {
+		"hash": "7202kMNCw3kWLOqi/NfzSHRkAgo",
+		"spine": "3.8",
+		"x": -17,
+		"y": -22,
+		"width": 34,
+		"height": 44,
+		"images": "./0/",
+		"audio": ""
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "bone19",
+			"parent": "root",
+			"length": 22.21,
+			"y": -8.49
+		}
+	],
+	"slots": [
+		{
+			"name": "buff_zd_jiuqi/00",
+			"bone": "bone19",
+			"attachment": "buff_zd_jiuqi/00"
+		}
+	],
+	"skins": [
+		{
+			"name": "default",
+			"attachments": {
+				"buff_zd_jiuqi/00": {
+					"buff_zd_jiuqi/00": {
+						"y": 8.49,
+						"width": 34,
+						"height": 44
+					},
+					"buff_zd_jiuqi/01": {
+						"y": 8.49,
+						"width": 34,
+						"height": 44
+					},
+					"buff_zd_jiuqi/02": {
+						"y": 8.49,
+						"width": 34,
+						"height": 44
+					},
+					"buff_zd_jiuqi/03": {
+						"y": 8.49,
+						"width": 34,
+						"height": 44
+					},
+					"buff_zd_jiuqi/04": {
+						"y": 8.49,
+						"width": 34,
+						"height": 44
+					},
+					"buff_zd_jiuqi/05": {
+						"y": 8.49,
+						"width": 34,
+						"height": 44
+					}
+				}
+			}
+		}
+	],
+	"animations": {
+		"animation": {
+			"slots": {
+				"buff_zd_jiuqi/00": {
+					"attachment": [
+						{
+							"name": "buff_zd_jiuqi/00"
+						},
+						{
+							"time": 0.1,
+							"name": "buff_zd_jiuqi/01"
+						},
+						{
+							"time": 0.2,
+							"name": "buff_zd_jiuqi/02"
+						},
+						{
+							"time": 0.3,
+							"name": "buff_zd_jiuqi/03"
+						},
+						{
+							"time": 0.4,
+							"name": "buff_zd_jiuqi/04"
+						},
+						{
+							"time": 0.5,
+							"name": "buff_zd_jiuqi/05"
+						}
+					]
+				}
+			},
+			"bones": {
+				"bone19": {
+					"translate": [
+						{
+							"y": 8.49
+						}
+					],
+					"scale": [
+						{
+							"x": 2.196,
+							"y": 2.196
+						}
+					]
+				}
+			},
+			"drawOrder": [
+				{}
+			]
+		}
+	}
+}

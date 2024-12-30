@@ -1,0 +1,122 @@
+{
+	"skeleton": {
+		"hash": "K/JeZJv99aGsUasKJ43Yj66v6YY",
+		"spine": "3.8",
+		"x": -98.5,
+		"y": -98.5,
+		"width": 197,
+		"height": 197,
+		"images": "./0/",
+		"audio": ""
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "q",
+			"parent": "root"
+		},
+		{
+			"name": "q2",
+			"parent": "root"
+		}
+	],
+	"slots": [
+		{
+			"name": "quan",
+			"bone": "q",
+			"attachment": "quan"
+		},
+		{
+			"name": "quan2",
+			"bone": "q2",
+			"attachment": "quan",
+			"blend": "additive"
+		}
+	],
+	"skins": [
+		{
+			"name": "default",
+			"attachments": {
+				"quan2": {
+					"quan": {
+						"scaleX": 1.97,
+						"scaleY": 1.97,
+						"width": 100,
+						"height": 100
+					}
+				},
+				"quan": {
+					"quan": {
+						"scaleX": 1.97,
+						"scaleY": 1.97,
+						"width": 100,
+						"height": 100
+					}
+				}
+			}
+		}
+	],
+	"animations": {
+		"animation": {
+			"slots": {
+				"quan": {
+					"color": [
+						{
+							"color": "ffffff96"
+						},
+						{
+							"time": 2,
+							"color": "ffffff00"
+						},
+						{
+							"time": 4,
+							"color": "ffffff96"
+						}
+					],
+					"attachment": [
+						{
+							"name": "quan"
+						}
+					]
+				},
+				"quan2": {
+					"color": [
+						{
+							"color": "ffffff00"
+						},
+						{
+							"time": 2,
+							"color": "ffffff75"
+						},
+						{
+							"time": 4,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"name": "quan"
+						}
+					]
+				}
+			},
+			"bones": {
+				"q2": {
+					"scale": [
+						{
+							"x": 0.95,
+							"y": 0.95
+						},
+						{
+							"time": 4,
+							"x": 1.25,
+							"y": 1.25
+						}
+					]
+				}
+			}
+		}
+	}
+}

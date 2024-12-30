@@ -1,0 +1,195 @@
+
+huangyueying_2_phyattack_1.png
+size: 1421,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/dd_4
+  rotate: false
+  xy: 1340, 179
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ef/liu_01
+  rotate: true
+  xy: 1128, 5
+  size: 98, 25
+  orig: 98, 25
+  offset: 0, 0
+  index: -1
+ef/liu_03
+  rotate: true
+  xy: 1155, 5
+  size: 98, 25
+  orig: 98, 25
+  offset: 0, 0
+  index: -1
+ef/liu_05
+  rotate: true
+  xy: 1182, 5
+  size: 98, 25
+  orig: 98, 25
+  offset: 0, 0
+  index: -1
+ef/liu_07
+  rotate: false
+  xy: 1209, 2
+  size: 98, 25
+  orig: 98, 25
+  offset: 0, 0
+  index: -1
+ef/liu_09
+  rotate: false
+  xy: 1309, 2
+  size: 98, 25
+  orig: 98, 25
+  offset: 0, 0
+  index: -1
+ef/liu_11
+  rotate: true
+  xy: 1340, 79
+  size: 98, 25
+  orig: 98, 25
+  offset: 0, 0
+  index: -1
+ef/liu_13
+  rotate: true
+  xy: 1367, 79
+  size: 98, 25
+  orig: 98, 25
+  offset: 0, 0
+  index: -1
+ef/liu_15
+  rotate: true
+  xy: 1394, 131
+  size: 98, 25
+  orig: 98, 25
+  offset: 0, 0
+  index: -1
+ef/quan
+  rotate: false
+  xy: 108, 3
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/tx_hul02
+  rotate: false
+  xy: 2, 105
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+ef/tx_hul03
+  rotate: false
+  xy: 204, 105
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+ef/tx_hul04
+  rotate: false
+  xy: 406, 105
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+ef/tx_hul05
+  rotate: false
+  xy: 608, 105
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+ef/tx_hul06
+  rotate: false
+  xy: 810, 105
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+ef/tx_hul07
+  rotate: false
+  xy: 1012, 105
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+ef/tx_hul08
+  rotate: true
+  xy: 1214, 29
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+ef/xingxing5
+  rotate: true
+  xy: 2, 3
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+ef/xz_01
+  rotate: false
+  xy: 210, 3
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_02
+  rotate: false
+  xy: 312, 3
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_03
+  rotate: false
+  xy: 414, 3
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_04
+  rotate: false
+  xy: 516, 3
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_06
+  rotate: false
+  xy: 618, 3
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_08
+  rotate: false
+  xy: 720, 3
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_10
+  rotate: false
+  xy: 822, 3
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_12
+  rotate: false
+  xy: 924, 3
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ef/xz_14
+  rotate: false
+  xy: 1026, 3
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

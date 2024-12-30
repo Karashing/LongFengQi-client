@@ -1,0 +1,27 @@
+
+guanyu_2_skill3.png
+size: 364,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/dd_5
+  rotate: false
+  xy: 312, 108
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ef/gq31
+  rotate: false
+  xy: 2, 2
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ef/qq_2
+  rotate: false
+  xy: 160, 8
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

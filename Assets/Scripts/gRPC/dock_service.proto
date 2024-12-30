@@ -1,0 +1,94 @@
+syntax = "proto3";
+// import "google/protobuf/empty.proto";
+// python -m grpc_tools.protoc -I ./ --python_out=./ --grpc_python_out=. ./dock_service.proto
+///Users/yuanyijun/Tool/grpc-protoc_macos_x64-1.45.0-dev/protoc --csharp_out=. dock_test.proto --grpc_out=. --plugin=protoc-gen-grpc=/Users/yuanyijun/Tool/grpc-protoc_macos_x64-1.45.0-dev/grpc_csharp_plugin
+// ./grpc_proto_tool/protoc --csharp_out=. ./dock_service.proto --grpc_out=. --plugin=protoc-gen-grpc=./grpc_proto_tool/grpc_csharp_plugin
+// ./grpc_proto_tool/protoc --python_out=. ./dock_service.proto --grpc_out=. --plugin=protoc-gen-grpc=./grpc_proto_tool/grpc_python_plugin
+
+package dock_service;
+
+service DockService {
+    rpc ConnectTest(TestMessage) returns (TestMessage); // Connect
+    rpc Connect(ConnectRequest) returns (ConnectResponse); // Connect
+    rpc Client2Server(GameMessage) returns (ClientResponse); // Game
+    rpc Server2Client(ServerRequest) returns (stream GameMessage); // Game
+    rpc LoginAccount(LoginRequest)returns(LoginResponse);
+    rpc RegisterAccount(RegisterRequest)returns(RegisterResponse);
+    rpc MatchGameRoom(MatchRequest)returns(stream MatchResponse);
+    rpc CancelMatching(MatchRequest)returns(MatchResponse);
+    rpc GetUserInfo(GetUserInfoRequest)returns(GetUserInfoResponse);
+}
+
+// 客户端发送消息请求参数
+message GameMessage {
+    string request_id = 1;
+    string user_id = 2;
+    string create_at = 3;
+
+    string content_type = 4;
+    string content = 5; // JSON
+}
+
+message ClientResponse {
+    string request_id = 1;
+}
+
+message ServerRequest {
+    string user_id = 1;
+}
+
+// 测试
+message TestMessage {
+    string content = 1;
+}
+
+// 首次连接 
+message ConnectRequest{
+}
+
+message ConnectResponse{
+    bool is_ok = 1;
+    string content = 2; // JSON
+}
+
+// 登录
+message LoginRequest {
+    string account = 1;
+    string password = 2;
+}
+
+message LoginResponse {
+    bool is_success = 1;
+    string user_id = 2;
+    string content = 3; // JSON
+}
+
+// 注册
+message RegisterRequest {
+    string account = 1;
+    string password = 2;
+}
+
+message RegisterResponse {
+    bool is_success = 1;
+    string content = 2; // JSON
+}
+
+// 匹配游戏
+message MatchRequest {
+    string user_id = 1;
+}
+
+message MatchResponse {
+    bool is_success = 1;
+    string content = 2; // JSON
+}
+
+// 获取游戏分数
+message GetUserInfoRequest {
+    string user_id = 1;
+}
+
+message GetUserInfoResponse {
+    string content = 1; // JSON
+}

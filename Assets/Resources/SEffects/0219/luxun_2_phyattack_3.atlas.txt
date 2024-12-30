@@ -1,0 +1,209 @@
+
+luxun_2_phyattack_3.png
+size: 1210,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/baoh_01
+  rotate: false
+  xy: 104, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/baoh_02
+  rotate: false
+  xy: 183, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/baoh_03
+  rotate: false
+  xy: 262, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/baoh_04
+  rotate: false
+  xy: 341, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/baoh_05
+  rotate: false
+  xy: 420, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/baoh_06
+  rotate: false
+  xy: 499, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/baoh_07
+  rotate: false
+  xy: 578, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/baoh_08
+  rotate: false
+  xy: 657, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/baoh_09
+  rotate: false
+  xy: 736, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/baoh_10
+  rotate: false
+  xy: 815, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/baoh_11
+  rotate: false
+  xy: 894, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/baoh_12
+  rotate: false
+  xy: 973, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/dd2
+  rotate: false
+  xy: 2, 6
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ef/huoyanxx01
+  rotate: false
+  xy: 1052, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/huoyanxx02
+  rotate: false
+  xy: 1131, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/huoyanxx03
+  rotate: false
+  xy: 104, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/huoyanxx04
+  rotate: false
+  xy: 183, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/huoyanxx05
+  rotate: false
+  xy: 262, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/huoyanxx06
+  rotate: false
+  xy: 341, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/huoyanxx07
+  rotate: false
+  xy: 420, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/huoyanxx08
+  rotate: false
+  xy: 499, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/huoyanxx09
+  rotate: false
+  xy: 578, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/huoyanxx10
+  rotate: false
+  xy: 657, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/huoyanxx11
+  rotate: false
+  xy: 736, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/huoyanxx12
+  rotate: false
+  xy: 815, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/huoyanxx13
+  rotate: false
+  xy: 894, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/huoyanxx14
+  rotate: false
+  xy: 973, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/huoyanxx15
+  rotate: false
+  xy: 1052, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ef/quan
+  rotate: false
+  xy: 2, 58
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

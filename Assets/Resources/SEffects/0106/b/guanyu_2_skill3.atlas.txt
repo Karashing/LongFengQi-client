@@ -1,0 +1,153 @@
+
+guanyu_2_skill3.png
+size: 298,908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/daoguanga_00000
+  rotate: false
+  xy: 160, 786
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ef/daoguanga_00001
+  rotate: false
+  xy: 160, 664
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ef/daoguanga_00002
+  rotate: false
+  xy: 2, 628
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ef/daoguanga_00003
+  rotate: false
+  xy: 124, 542
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ef/daoguanga_00004
+  rotate: false
+  xy: 2, 506
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ef/daoguanga_00005
+  rotate: false
+  xy: 124, 420
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ef/daoguanga_00006
+  rotate: false
+  xy: 2, 384
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ef/daoguanga_00007
+  rotate: false
+  xy: 124, 298
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ef/daoguanga_00008
+  rotate: false
+  xy: 2, 262
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ef/daoguanga_00009
+  rotate: false
+  xy: 124, 176
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ef/daoguanga_00010
+  rotate: false
+  xy: 2, 140
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ef/daoguanga_00011
+  rotate: false
+  xy: 124, 54
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ef/daoguanga_00012
+  rotate: false
+  xy: 2, 18
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ef/qb
+  rotate: false
+  xy: 2, 750
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ef/tx_baodian02
+  rotate: false
+  xy: 246, 562
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+ef/tx_baodian03
+  rotate: false
+  xy: 246, 460
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+ef/tx_baodian04
+  rotate: false
+  xy: 246, 358
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+ef/tx_baodian05
+  rotate: false
+  xy: 246, 256
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+ef/tx_baodian06
+  rotate: false
+  xy: 246, 154
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+ef/tx_baodian07
+  rotate: false
+  xy: 246, 52
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+ef/tx_baodian08
+  rotate: true
+  xy: 124, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1

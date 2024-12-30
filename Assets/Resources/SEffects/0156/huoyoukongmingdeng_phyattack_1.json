@@ -1,0 +1,153 @@
+{
+	"skeleton": {
+		"hash": "ND6lvJQBkZOy7O15s9/TLKp94LI",
+		"spine": "3.8",
+		"x": -64.99,
+		"y": -50,
+		"width": 130,
+		"height": 100,
+		"images": "./0/",
+		"audio": ""
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "tx_4",
+			"parent": "root",
+			"length": 70.06,
+			"rotation": 0.45,
+			"x": -62.1,
+			"y": -0.5
+		}
+	],
+	"slots": [
+		{
+			"name": "tx_4",
+			"bone": "tx_4",
+			"attachment": "tx_3_0003",
+			"blend": "additive"
+		}
+	],
+	"skins": [
+		{
+			"name": "default",
+			"attachments": {
+				"tx_4": {
+					"tx_3_0001": {
+						"x": 62.11,
+						"y": 0.01,
+						"rotation": -0.45,
+						"width": 130,
+						"height": 100
+					},
+					"tx_3_0002": {
+						"x": 62.11,
+						"y": 0.01,
+						"rotation": -0.45,
+						"width": 130,
+						"height": 100
+					},
+					"tx_3_0003": {
+						"x": 62.11,
+						"y": 0.01,
+						"rotation": -0.45,
+						"width": 130,
+						"height": 100
+					},
+					"tx_3_0004": {
+						"x": 62.11,
+						"y": 0.01,
+						"rotation": -0.45,
+						"width": 130,
+						"height": 100
+					},
+					"tx_3_0005": {
+						"x": 62.11,
+						"y": 0.01,
+						"rotation": -0.45,
+						"width": 130,
+						"height": 100
+					},
+					"tx_3_0006": {
+						"x": 62.11,
+						"y": 0.01,
+						"rotation": -0.45,
+						"width": 130,
+						"height": 100
+					},
+					"tx_3_0007": {
+						"x": 62.11,
+						"y": 0.01,
+						"rotation": -0.45,
+						"width": 130,
+						"height": 100
+					},
+					"tx_3_0008": {
+						"x": 62.11,
+						"y": 0.01,
+						"rotation": -0.45,
+						"width": 130,
+						"height": 100
+					}
+				}
+			}
+		}
+	],
+	"animations": {
+		"animation": {
+			"slots": {
+				"tx_4": {
+					"attachment": [
+						{
+							"name": "tx_3_0001"
+						},
+						{
+							"time": 0.0333,
+							"name": "tx_3_0002"
+						},
+						{
+							"time": 0.0667,
+							"name": "tx_3_0003"
+						},
+						{
+							"time": 0.1,
+							"name": "tx_3_0004"
+						},
+						{
+							"time": 0.1333,
+							"name": "tx_3_0005"
+						},
+						{
+							"time": 0.1667,
+							"name": "tx_3_0006"
+						},
+						{
+							"time": 0.2,
+							"name": "tx_3_0007"
+						},
+						{
+							"time": 0.2333,
+							"name": "tx_3_0008"
+						},
+						{
+							"time": 0.2667,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"tx_4": {
+					"translate": [
+						{
+							"x": 30.96,
+							"y": 0.72
+						}
+					]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,62 @@
+
+huoyoukongmingdeng_phyattack_1.png
+size: 1058,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_3_0001
+  rotate: false
+  xy: 2, 2
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+tx_3_0002
+  rotate: false
+  xy: 134, 2
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+tx_3_0003
+  rotate: false
+  xy: 266, 2
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+tx_3_0004
+  rotate: false
+  xy: 398, 2
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+tx_3_0005
+  rotate: false
+  xy: 530, 2
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+tx_3_0006
+  rotate: false
+  xy: 662, 2
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+tx_3_0007
+  rotate: false
+  xy: 794, 2
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+tx_3_0008
+  rotate: false
+  xy: 926, 2
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,906 @@
+{
+	"skeleton": {
+		"hash": "+t3qmuV2y6dL9SnMYTukbVI/1Sw",
+		"spine": "3.8",
+		"images": "./0/",
+		"audio": ""
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "a",
+			"parent": "root"
+		},
+		{
+			"name": "bao",
+			"parent": "a"
+		},
+		{
+			"name": "bao2",
+			"parent": "a"
+		},
+		{
+			"name": "bao3",
+			"parent": "a"
+		},
+		{
+			"name": "bao4",
+			"parent": "a"
+		},
+		{
+			"name": "jian",
+			"parent": "a"
+		}
+	],
+	"slots": [
+		{
+			"name": "ef/_0065_weapon2",
+			"bone": "jian"
+		},
+		{
+			"name": "ef/_0065_weapon3",
+			"bone": "jian",
+			"blend": "additive"
+		},
+		{
+			"name": "ef/tx_baodian02",
+			"bone": "bao"
+		},
+		{
+			"name": "ef/tx_baodian2",
+			"bone": "bao2"
+		},
+		{
+			"name": "ef/tx_baodian3",
+			"bone": "bao3"
+		},
+		{
+			"name": "ef/tx_baodian4",
+			"bone": "bao4",
+			"blend": "additive"
+		}
+	],
+	"skins": [
+		{
+			"name": "default",
+			"attachments": {
+				"ef/_0065_weapon2": {
+					"ef/_0065_weapon2": {
+						"x": 36.87,
+						"width": 129,
+						"height": 37
+					}
+				},
+				"ef/_0065_weapon3": {
+					"ef/_0065_weapon2": {
+						"x": 36.87,
+						"width": 129,
+						"height": 37
+					}
+				},
+				"ef/tx_baodian2": {
+					"ef/tx_baodian02": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian03": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian04": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian05": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian06": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian07": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian08": {
+						"width": 50,
+						"height": 100
+					}
+				},
+				"ef/tx_baodian3": {
+					"ef/tx_baodian02": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian03": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian04": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian05": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian06": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian07": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian08": {
+						"width": 50,
+						"height": 100
+					}
+				},
+				"ef/tx_baodian4": {
+					"ef/tx_baodian02": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian03": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian04": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian05": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian06": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian07": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian08": {
+						"width": 50,
+						"height": 100
+					}
+				},
+				"ef/tx_baodian02": {
+					"ef/tx_baodian02": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian03": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian04": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian05": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian06": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian07": {
+						"width": 50,
+						"height": 100
+					},
+					"ef/tx_baodian08": {
+						"width": 50,
+						"height": 100
+					}
+				}
+			}
+		}
+	],
+	"animations": {
+		"animation": {
+			"slots": {
+				"ef/tx_baodian2": {
+					"attachment": [
+						{
+							"name": "ef/tx_baodian06"
+						},
+						{
+							"time": 0.0667,
+							"name": "ef/tx_baodian07"
+						},
+						{
+							"time": 0.1333,
+							"name": "ef/tx_baodian08"
+						},
+						{
+							"time": 0.2,
+							"name": null
+						},
+						{
+							"time": 0.2667,
+							"name": "ef/tx_baodian02"
+						},
+						{
+							"time": 0.3333,
+							"name": "ef/tx_baodian03"
+						},
+						{
+							"time": 0.4,
+							"name": "ef/tx_baodian04"
+						},
+						{
+							"time": 0.4667,
+							"name": "ef/tx_baodian05"
+						},
+						{
+							"time": 0.5333,
+							"name": "ef/tx_baodian06"
+						},
+						{
+							"time": 0.6,
+							"name": "ef/tx_baodian07"
+						},
+						{
+							"time": 0.6667,
+							"name": "ef/tx_baodian08"
+						},
+						{
+							"time": 0.7333,
+							"name": null
+						},
+						{
+							"time": 0.8,
+							"name": "ef/tx_baodian02"
+						},
+						{
+							"time": 0.8667,
+							"name": "ef/tx_baodian03"
+						},
+						{
+							"time": 0.9333,
+							"name": "ef/tx_baodian04"
+						},
+						{
+							"time": 1,
+							"name": "ef/tx_baodian05"
+						},
+						{
+							"time": 1.0667,
+							"name": "ef/tx_baodian06"
+						},
+						{
+							"time": 1.1333,
+							"name": "ef/tx_baodian07"
+						},
+						{
+							"time": 1.2,
+							"name": "ef/tx_baodian08"
+						},
+						{
+							"time": 1.2667,
+							"name": null
+						},
+						{
+							"time": 1.3333,
+							"name": "ef/tx_baodian02"
+						},
+						{
+							"time": 1.4,
+							"name": "ef/tx_baodian03"
+						},
+						{
+							"time": 1.4667,
+							"name": "ef/tx_baodian04"
+						},
+						{
+							"time": 1.5333,
+							"name": "ef/tx_baodian05"
+						}
+					]
+				},
+				"ef/_0065_weapon3": {
+					"color": [
+						{
+							"color": "ffffff00"
+						},
+						{
+							"time": 0.2667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.5333,
+							"color": "ffffff00"
+						},
+						{
+							"time": 0.8,
+							"color": "ffffffff"
+						},
+						{
+							"time": 1.0667,
+							"color": "ffffff00"
+						},
+						{
+							"time": 1.3333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 1.6,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"name": "ef/_0065_weapon2"
+						},
+						{
+							"time": 0.5333,
+							"name": "ef/_0065_weapon2"
+						},
+						{
+							"time": 1.0667,
+							"name": "ef/_0065_weapon2"
+						}
+					]
+				},
+				"ef/_0065_weapon2": {
+					"attachment": [
+						{
+							"name": "ef/_0065_weapon2"
+						},
+						{
+							"time": 0.5333,
+							"name": "ef/_0065_weapon2"
+						},
+						{
+							"time": 1.0667,
+							"name": "ef/_0065_weapon2"
+						}
+					]
+				},
+				"ef/tx_baodian02": {
+					"attachment": [
+						{
+							"name": "ef/tx_baodian08"
+						},
+						{
+							"time": 0.0667,
+							"name": null
+						},
+						{
+							"time": 0.1333,
+							"name": "ef/tx_baodian02"
+						},
+						{
+							"time": 0.2,
+							"name": "ef/tx_baodian03"
+						},
+						{
+							"time": 0.2667,
+							"name": "ef/tx_baodian04"
+						},
+						{
+							"time": 0.3333,
+							"name": "ef/tx_baodian05"
+						},
+						{
+							"time": 0.4,
+							"name": "ef/tx_baodian06"
+						},
+						{
+							"time": 0.4667,
+							"name": "ef/tx_baodian07"
+						},
+						{
+							"time": 0.5333,
+							"name": "ef/tx_baodian08"
+						},
+						{
+							"time": 0.6,
+							"name": null
+						},
+						{
+							"time": 0.6667,
+							"name": "ef/tx_baodian02"
+						},
+						{
+							"time": 0.7333,
+							"name": "ef/tx_baodian03"
+						},
+						{
+							"time": 0.8,
+							"name": "ef/tx_baodian04"
+						},
+						{
+							"time": 0.8667,
+							"name": "ef/tx_baodian05"
+						},
+						{
+							"time": 0.9333,
+							"name": "ef/tx_baodian06"
+						},
+						{
+							"time": 1,
+							"name": "ef/tx_baodian07"
+						},
+						{
+							"time": 1.0667,
+							"name": "ef/tx_baodian08"
+						},
+						{
+							"time": 1.1333,
+							"name": null
+						},
+						{
+							"time": 1.2,
+							"name": "ef/tx_baodian02"
+						},
+						{
+							"time": 1.2667,
+							"name": "ef/tx_baodian03"
+						},
+						{
+							"time": 1.3333,
+							"name": "ef/tx_baodian04"
+						},
+						{
+							"time": 1.4,
+							"name": "ef/tx_baodian05"
+						},
+						{
+							"time": 1.4667,
+							"name": "ef/tx_baodian06"
+						},
+						{
+							"time": 1.5333,
+							"name": "ef/tx_baodian07"
+						}
+					]
+				},
+				"ef/tx_baodian3": {
+					"attachment": [
+						{
+							"name": "ef/tx_baodian04"
+						},
+						{
+							"time": 0.0667,
+							"name": "ef/tx_baodian05"
+						},
+						{
+							"time": 0.1333,
+							"name": "ef/tx_baodian06"
+						},
+						{
+							"time": 0.2,
+							"name": "ef/tx_baodian07"
+						},
+						{
+							"time": 0.2667,
+							"name": "ef/tx_baodian08"
+						},
+						{
+							"time": 0.3333,
+							"name": null
+						},
+						{
+							"time": 0.4,
+							"name": "ef/tx_baodian02"
+						},
+						{
+							"time": 0.4667,
+							"name": "ef/tx_baodian03"
+						},
+						{
+							"time": 0.5333,
+							"name": "ef/tx_baodian04"
+						},
+						{
+							"time": 0.6,
+							"name": "ef/tx_baodian05"
+						},
+						{
+							"time": 0.6667,
+							"name": "ef/tx_baodian06"
+						},
+						{
+							"time": 0.7333,
+							"name": "ef/tx_baodian07"
+						},
+						{
+							"time": 0.8,
+							"name": "ef/tx_baodian08"
+						},
+						{
+							"time": 0.8667,
+							"name": null
+						},
+						{
+							"time": 0.9333,
+							"name": "ef/tx_baodian02"
+						},
+						{
+							"time": 1,
+							"name": "ef/tx_baodian03"
+						},
+						{
+							"time": 1.0667,
+							"name": "ef/tx_baodian04"
+						},
+						{
+							"time": 1.1333,
+							"name": "ef/tx_baodian05"
+						},
+						{
+							"time": 1.2,
+							"name": "ef/tx_baodian06"
+						},
+						{
+							"time": 1.2667,
+							"name": "ef/tx_baodian07"
+						},
+						{
+							"time": 1.3333,
+							"name": "ef/tx_baodian08"
+						},
+						{
+							"time": 1.4,
+							"name": null
+						},
+						{
+							"time": 1.4667,
+							"name": "ef/tx_baodian02"
+						},
+						{
+							"time": 1.5333,
+							"name": "ef/tx_baodian03"
+						}
+					]
+				},
+				"ef/tx_baodian4": {
+					"attachment": [
+						{
+							"name": "ef/tx_baodian02"
+						},
+						{
+							"time": 0.0667,
+							"name": "ef/tx_baodian03"
+						},
+						{
+							"time": 0.1333,
+							"name": "ef/tx_baodian04"
+						},
+						{
+							"time": 0.2,
+							"name": "ef/tx_baodian05"
+						},
+						{
+							"time": 0.2667,
+							"name": "ef/tx_baodian06"
+						},
+						{
+							"time": 0.3333,
+							"name": "ef/tx_baodian07"
+						},
+						{
+							"time": 0.4,
+							"name": "ef/tx_baodian08"
+						},
+						{
+							"time": 0.4667,
+							"name": null
+						},
+						{
+							"time": 0.5333,
+							"name": "ef/tx_baodian02"
+						},
+						{
+							"time": 0.6,
+							"name": "ef/tx_baodian03"
+						},
+						{
+							"time": 0.6667,
+							"name": "ef/tx_baodian04"
+						},
+						{
+							"time": 0.7333,
+							"name": "ef/tx_baodian05"
+						},
+						{
+							"time": 0.8,
+							"name": "ef/tx_baodian06"
+						},
+						{
+							"time": 0.8667,
+							"name": "ef/tx_baodian07"
+						},
+						{
+							"time": 0.9333,
+							"name": "ef/tx_baodian08"
+						},
+						{
+							"time": 1,
+							"name": null
+						},
+						{
+							"time": 1.0667,
+							"name": "ef/tx_baodian02"
+						},
+						{
+							"time": 1.1333,
+							"name": "ef/tx_baodian03"
+						},
+						{
+							"time": 1.2,
+							"name": "ef/tx_baodian04"
+						},
+						{
+							"time": 1.2667,
+							"name": "ef/tx_baodian05"
+						},
+						{
+							"time": 1.3333,
+							"name": "ef/tx_baodian06"
+						},
+						{
+							"time": 1.4,
+							"name": "ef/tx_baodian07"
+						},
+						{
+							"time": 1.4667,
+							"name": "ef/tx_baodian08"
+						},
+						{
+							"time": 1.5333,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"jian": {
+					"scale": [
+						{
+							"x": 1.234,
+							"y": 1.234,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5333,
+							"x": 1.234,
+							"y": 1.234,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.0667,
+							"x": 1.234,
+							"y": 1.234
+						}
+					]
+				},
+				"bao": {
+					"rotate": [
+						{
+							"angle": -106.91,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5333,
+							"angle": -106.91,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.0667,
+							"angle": -106.91
+						}
+					],
+					"translate": [
+						{
+							"x": 29.85,
+							"y": -11.41,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5333,
+							"x": 29.85,
+							"y": -11.41,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.0667,
+							"x": 29.85,
+							"y": -11.41
+						}
+					],
+					"scale": [
+						{
+							"x": 0.596,
+							"y": 0.596,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5333,
+							"x": 0.596,
+							"y": 0.596,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.0667,
+							"x": 0.596,
+							"y": 0.596
+						}
+					]
+				},
+				"bao2": {
+					"rotate": [
+						{
+							"angle": -80.31,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5333,
+							"angle": -80.31,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.0667,
+							"angle": -80.31
+						}
+					],
+					"translate": [
+						{
+							"x": 50.04,
+							"y": 4.38,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5333,
+							"x": 50.04,
+							"y": 4.38,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.0667,
+							"x": 50.04,
+							"y": 4.38
+						}
+					],
+					"scale": [
+						{
+							"x": 0.789,
+							"y": 0.789,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5333,
+							"x": 0.789,
+							"y": 0.789,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.0667,
+							"x": 0.789,
+							"y": 0.789
+						}
+					]
+				},
+				"bao3": {
+					"rotate": [
+						{
+							"angle": -75.49,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5333,
+							"angle": -75.49,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.0667,
+							"angle": -75.49
+						}
+					],
+					"translate": [
+						{
+							"x": 19.31,
+							"y": 5.26,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5333,
+							"x": 19.31,
+							"y": 5.26,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.0667,
+							"x": 19.31,
+							"y": 5.26
+						}
+					],
+					"scale": [
+						{
+							"x": 0.588,
+							"y": 0.588,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5333,
+							"x": 0.588,
+							"y": 0.588,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.0667,
+							"x": 0.588,
+							"y": 0.588
+						}
+					]
+				},
+				"bao4": {
+					"rotate": [
+						{
+							"angle": -90.57,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5333,
+							"angle": -90.57,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.0667,
+							"angle": -90.57
+						}
+					],
+					"translate": [
+						{
+							"x": 76.38,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5333,
+							"x": 76.38,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.0667,
+							"x": 76.38
+						}
+					],
+					"scale": [
+						{
+							"x": 0.72,
+							"y": 0.72,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5333,
+							"x": 0.72,
+							"y": 0.72,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.0667,
+							"x": 0.72,
+							"y": 0.72
+						}
+					]
+				},
+				"a": {
+					"scale": [
+						{
+							"x": 1.862,
+							"y": 1.862
+						}
+					]
+				}
+			}
+		}
+	}
+}
